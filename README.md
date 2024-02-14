@@ -1,0 +1,3 @@
+My name is Abdulrasaq Jinadu. I am an aspiring full stack web developer and data analyst with experience in programming languages C, Python and R. I also have knowledge in SPSS and SQL. This is a bunch of mini projects I tasked myself into doing while properly learning these above languages, learning other relevant languages, improving my problem-solving skills and overall honing my craft.
+
+My makeshift portofolio website is https://eniolajinadu.github.io 
